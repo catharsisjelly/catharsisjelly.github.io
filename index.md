@@ -6,8 +6,8 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Quick Info
 
-* Next available: *24 July 2020*
-* Day Rate: Varies between &pound;250-350+ / day (neg) 
+* Next available: **24 July 2020**
+* Day Rate: Varies between &pound;250-350+ / day (neg)
 * Got questions? [Email me](mailto:me at catharsis.co.uk)
 * Download a condensed PDF version of my [development CV](downloads/Chris_Lock-CV.pdf)
 

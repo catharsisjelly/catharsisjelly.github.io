@@ -32,7 +32,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 ## Development Experience
 
 * [Propel Finance](experience/propel.md)
-  * Contract Developer - March 2020 to Current
+  * Contract Developer - March 2020 to July 2020
 * [George Banco](experience/george-banco.md)
   * Contract Developer - May 2018 to August 2019
 * [Careplanner](experience/careplanner.md)

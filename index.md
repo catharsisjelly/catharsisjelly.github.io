@@ -6,7 +6,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Quick Info
 
-* Next available: **24 July 2020**
+* Next available: **IMMEDIATELY**
 * Day Rate: Varies between &pound;250-350+ / day (neg)
 * Got questions? [Email me](mailto:me at catharsis.co.uk)
 * Download a condensed PDF version of my [development CV](downloads/Chris_Lock-CV.pdf)
@@ -31,7 +31,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Development Experience
 
-* [Current](experience/current.md)
+* [Propel Finance](experience/propel.md)
   * Contract Developer - March 2020 to Current
 * [George Banco](experience/george-banco.md)
   * Contract Developer - May 2018 to August 2019

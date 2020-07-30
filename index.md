@@ -24,7 +24,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## PHP Framework Knowledge
 
-* Symphony 2 &rarr; 5
+* Symfony 2 &rarr; 5
 * Laravel 4 &rarr; 7
 * Zend Framework 2 & 3
 * Yii

@@ -8,7 +8,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 * Next available: **IMMEDIATELY**
 * Day Rate: Varies between &pound;250-450 / day (neg)
-* Got questions? [Email me](mailto:me at catharsis.co.uk)
+* Got questions? [Email me](mailto:me_at_catharsis.co.uk)
 * Download a condensed PDF version of my [development CV](downloads/Chris_Lock-CV.pdf)
 
 ## Skills Summary

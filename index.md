@@ -16,11 +16,12 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 | | | |
 |--|--|--|
 | PHP (5.x &rarr; 7.x) | Javascript | Node |
-| JQuery | Databases | Apache & NginX |
+| JQuery | Databases (MySQL, MariaDB & more) | Apache & NginX |
 | JS Frameworks e.g Vue | TDD & BDD | OO programming & design |
 | Accessibility | Docker | Documentation |
 | Consultancy | Deployment | Technical teaching |
 | Business Analysis | Dev Ops (Linux & AWS) | SOLID principles |
+| Templating engines (Blade, Twig) | | |
 
 ## PHP Framework Knowledge
 

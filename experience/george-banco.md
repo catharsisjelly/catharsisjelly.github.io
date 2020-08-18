@@ -10,7 +10,7 @@ During my time I started instructing the dev team to begin to change some of the
 ## Skills Being Used
 
 * PHP (5.x & 7.2)
-* Symphony (2.3 & 4.x)
+* Symfony (2.3 & 4.x)
 * OpenAPI (3)
 * OOP
 * AWS deployment & integration

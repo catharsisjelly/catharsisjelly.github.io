@@ -32,7 +32,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Development Experience
 
-* Current Contract
+* [Chargifi](experience/chargifi.md)
   * Contract Developer - Oct 2020 to Dec 2020
 * [Propel Finance](experience/propel.md)
   * Contract Developer - March 2020 to July 2020

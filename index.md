@@ -43,7 +43,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 * [Biff Bang Pow](experience/biff-bang-pow.md)
   * Application Developer - November 2015 to January 2018
 * [Kainos](experience/kainos.md)
-  * Application Developer - May 2015 to September 2015
+  * Contract developer - May 2015 to September 2015
 * [iWantGreatCare.org](experience/i-want-great-care.md)
   * Contract Developer - March 2014 to April 2015
 * [MindUnit](experience/mind-unit.md)

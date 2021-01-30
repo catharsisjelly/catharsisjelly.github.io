@@ -20,11 +20,15 @@ I put a lot of work into this project. I schedule the guests, edit the audio and
 
 ## Visual
 
+### December 2020 - Deconstruction Showcase
+
+As part of a six week programme learning this format I ended up appearing in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can currently see the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
+
 ### July 2019 - Origin of Heroes
 
-This production was my improv directorial debut and put on as part of the [Unscripted Players](https://www.unscriptedplayers.com/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
+This production was my Improv directorial debut and put on as part of the [Unscripted Players](https://www.unscriptedplayers.com/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
 
-Each week I would choose a few improv based activities to warm up and then focus on versions of a particular beat to give the players the tools they need.
+Each week I would choose a few Improv based activities to warm up and then focus on versions of a particular beat to give the players the tools they need.
 
 During the show I played the part of the "narrator", taking on the name Lee Stanley a play on words of the late great Stan Lee. My job was to introduce the cast, take the suggestions from the audience and every now and then re-cap the story to help the players know where to focus.
 

@@ -6,7 +6,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Quick Info
 
-* Next available: **May 2020**
+* Next available: **April 2021**
 * Contract Day Rate: Varies between &pound;250-450 / day (neg)
 * Permanent Rate: ~&pound;45,000+ (neg)
 * Got questions? [Email me](mailto:me_at_catharsis.co.uk)

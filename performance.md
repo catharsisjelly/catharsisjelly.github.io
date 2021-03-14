@@ -20,13 +20,17 @@ I put a lot of work into this project. I schedule the guests, edit the audio and
 
 ## Visual
 
+### March 2021 - The Documentary
+
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in Fall 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We hope to continue to play with the format and put the show on again. You can catch up with when the next performance will be via the [dedicated Twitter account](https://twitter.com/ImpDocumentary). 
+
 ### December 2020 - Deconstruction Showcase
 
 As part of a six week programme learning this format I ended up appearing in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can currently see the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
 
 ### July 2019 - Origin of Heroes
 
-This production was my Improv directorial debut and put on as part of the [Unscripted Players](https://www.unscriptedplayers.com/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
+This production was my Improv directorial debut and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
 
 Each week I would choose a few Improv based activities to warm up and then focus on versions of a particular beat to give the players the tools they need.
 
@@ -36,11 +40,11 @@ I aim to hopefully put together a plan to take this show on the road and hit the
 
 ### April 2019 - The Stuff of Dreams
 
-The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.unscriptedplayers.com/) Big April Show. It's aim was to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dream world and weave them into the narrative story.
+The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big April Show. It's aim was to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dream world and weave them into the narrative story.
 
 ### July 2018 - What a Difference A Friend Makes
 
-What a Difference A Friend Makes was Directed by Llaura Hughes and put on as part of the [Unscripted Players](https://www.unscriptedplayers.com/) Big July Show. It was a narrative piece and aimed to explore the relationships we make in our journey through life and the things that our friends do that enhance our lives.
+What a Difference A Friend Makes was Directed by Llaura Hughes and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big July Show. It was a narrative piece and aimed to explore the relationships we make in our journey through life and the things that our friends do that enhance our lives.
 
 ### February 2017 - Bar Wotever
 

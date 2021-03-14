@@ -22,7 +22,7 @@ I put a lot of work into this project. I schedule the guests, edit the audio and
 
 ### March 2021 - The Documentary
 
-[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in Fall 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We hope to continue to play with the format and put the show on again. You can catch up with when the next performance will be via the [dedicated Twitter account](https://twitter.com/ImpDocumentary). 
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We hope to continue to play with the format and put the show on again. You can catch up with when the next performance will be via the [dedicated Twitter account](https://twitter.com/ImpDocumentary). 
 
 ### December 2020 - Deconstruction Showcase
 

@@ -6,7 +6,7 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 ## Quick Info
 
-* Next available: **April 2021**
+* Next available: **Unknown**
 * Contract Day Rate: Varies between &pound;250-450 / day (neg)
 * Permanent Rate: ~&pound;45,000+ (neg)
 * Got questions? [Email me](mailto:me_at_catharsis.co.uk)
@@ -16,13 +16,13 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 
 | | | |
 |--|--|--|
-| PHP (5.x &rarr; 7.x) | Javascript | Node |
+| PHP (5.x &rarr; 8.x) | Javascript | Node |
 | JQuery | Databases (MySQL, MariaDB & more) | Apache & NginX |
 | JS Frameworks e.g Vue | TDD & BDD | OO programming & design |
 | Accessibility | Docker | Documentation |
 | Consultancy | Deployment | Technical teaching |
 | Business Analysis | Dev Ops (Linux & AWS) | SOLID principles |
-| Templating engines (Blade, Twig) | | |
+| Templating engines (Blade, Twig) | Agile | |
 
 ## PHP Framework Knowledge
 
@@ -30,9 +30,12 @@ In my spare time I create and produce a creative podcast called [RoughSketch](ht
 * Laravel 4 &rarr; 7
 * Zend Framework 2 & 3
 * Yii
+* Silverstripe 3 &rarr; 4
 
 ## Development Experience
 
+* Unable to disclose at current time
+  * Contract Developer - Feb 2021 to Apr 2021
 * [Chargifi](experience/chargifi.md)
   * Contract Developer - Oct 2020 to Dec 2020
 * [Propel Finance](experience/propel.md)

@@ -11,6 +11,7 @@ It's an API written using the Laravel framework that talks to a database and pro
 
 * PHP (7.4)
 * Laravel (6.x)
+* REST API
 * Unit testing
 * Feature testing
 * MySQL

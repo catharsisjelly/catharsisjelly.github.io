@@ -2,27 +2,55 @@
 
 In my performance skills I like to believe I am equally good off stage as I am on. I really enjoy the focus of listening to my fellow performers and being able to react in the moment. Improv does not always have to be "funny", it can also be poignant, emotional and tell a story. Being a nerd I'm really good at using technology in ways to either help the production of a show or be included in a show. Even if that means I have to program something myself.
 
-Do get [in touch](mailto:me at catharsis.co.uk) if you want to talk to me about any of the following:
+Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any of the following:
 
 * Public speaking
 * Voice over
 * Compere/Toast Master
 * Improvised theatre
 * Devised theatre
+* Table top RPG facilitation
 
 ## Audio
 
 ### Jan 2019 - Present - Rough Sketch Podcast
 
-Since I re-embrace the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year I was lucky enough to get quite a few guests scheduled in so I put out more episodes than originally scheduled.
+Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year I was lucky enough to get quite a few guests scheduled in so I put out more episodes than originally scheduled.
 
 I put a lot of work into this project. I schedule the guests, edit the audio and update the majority of the social media and love doing it.
 
 ## Visual
 
-### March 2021 - The Documentary
+### February 2023 - The Quantum Horse
 
-[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We hope to continue to play with the format and put the show on again. You can catch up with when the next performance will be via the [dedicated Twitter account](https://twitter.com/ImpDocumentary). 
+![Quantum Horse Poster](./images/QuantumHorse-small.jpeg)
+
+The Quantum Horse is a Pantomime written and directed by [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). I attended an initial meeting in December 2022 and threw myself into the project. After a mad January of some major script changes and my parts in the panto expanding from one character to four it was a great way to start the year.
+
+The show had a run of 8 performances with the majority of them being sold out to a 100+ auidience between 02nd Feb & 12th Feb at [The Cube Microplex](https://cubecinema.com/) in Bristol with evening performances on Thurs & Friday and matinee performances over the weekend.
+
+**Parts I Played**
+
+* Narrator 2 - One of the two narrators that start the show, a neutral clear and present voice
+* Genie of Economy - A genie trapped for 10,000 years in the power of two metal coins - A loud theatrical overexagerated voice
+* Mr Hungerdunger - A man seeking help for his horse (Geoffrey) - Well spoken RP with a penchant for repeating the phrase "what what"
+* Digital Projector - An embodyment of a digital projector at The Cube Microplex - South-west bristolian accent
+
+**Reviews**
+
+> I went, it was excellent - [BarrySqiggle via Reddit](https://www.reddit.com/r/bristol/comments/10rsipy/comment/j768pb2/?utm_source=reddit&utm_medium=web2x&context=3)
+
+> Brilliantly written, acted and produced - [Leander Morrison via Twitter](https://twitter.com/LeandaMorrison/status/1623961667250823171)
+
+> Queer and neurodivergent audience members will appreciate it on about twelve different levels - [Quill via Website](https://www.cuillioc.org/0/partnerships/Reviews/review-quantum-horse)
+
+### April 2022 - Good Morning Bristol
+
+Another production by the [Unscripted Players](https://www.facebook.com/unscriptedplay/) directed by Aiden Pope that was delayed by two years due to COVID-19. The show was essentially poking fun at the traditional Morning TV show e.g Good Morning Britain. Short form games were strung together by hosts that changed on a performance by performance basis. I was one of the team of [5 performers](https://improvtheatre.co.uk/meet-the-cast-of-good-morning-bristol/) and performed in all three performances, taking the hosting role for one along with Jo Wymen.  
+
+### March 2021 - December 2021 - The Documentary
+
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Briistol Mind. I'm currently unsure if I am going to do iit again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
 
 ### December 2020 - Deconstruction Showcase
 

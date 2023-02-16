@@ -13,7 +13,7 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 ## Audio
 
-### Jan 2019 - Present - Rough Sketch Podcast
+### Jan 2019 - Present - [Rough Sketch Podcast](https://www.roughsketch.online/)
 
 Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year I was lucky enough to get quite a few guests scheduled in so I put out more episodes than originally scheduled.
 
@@ -50,7 +50,7 @@ Another production by the [Unscripted Players](https://www.facebook.com/unscript
 
 ### March 2021 - December 2021 - The Documentary
 
-[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Briistol Mind. I'm currently unsure if I am going to do iit again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Bristol Mind. I'm currently unsure if I am going to do iit again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
 
 ### December 2020 - Deconstruction Showcase
 

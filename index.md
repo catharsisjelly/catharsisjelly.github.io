@@ -6,7 +6,7 @@ In my spare time I create and produce a creative podcast called [Rough Sketch Po
 
 ## Quick Info
 
-* Current notice period: 2 months
+* Current notice period: 1 month
 * Salary expectation: ~&pound;48,000+
 * Got questions? [Email me](mailto:me@catharsis.co.uk)
 * Download a condensed PDF version of [this CV](downloads/Chris_Lock-CV.pdf)

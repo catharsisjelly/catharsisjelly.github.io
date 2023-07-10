@@ -1,8 +1,8 @@
-I have been working as an internet programmer since 1999; I tend to focus on the engineering and implementation side of the development. My ideal employer uses tech for a good (humane) purpose.
+I have been a developer for the last 20 years, using Agile processes for most of those. I am looking to move away from development to use more of my organisational skills to help organisations
+provide good digital products. My experience includes creating and changing products, digital change management, data analysis, data adoption and integration, organising workflows, and the
+requirements gathering and planning process.
 
-In the past I have worked with a variety of teams from large to small and even managed a small team myself. I have worked very closely with clients and am quite meticulous at gathering requirements then translating them to development tasks.
-
-In my spare time I create and produce a creative podcast called [Rough Sketch Podcast](https://www.roughsketch.online), co-organise an LGBTQ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [acted and directed](performance.md) on and off stage.
+In my spare time, I create and produce a creative podcast called [Rough Sketch Podcast](https://www.roughsketch.online), co-organise an LGBTQ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [acted and directed](performance.md) on and off stage.
 
 ## Quick Info
 
@@ -31,15 +31,13 @@ In my spare time I create and produce a creative podcast called [Rough Sketch Po
 * Yii
 * Silverstripe 3 &rarr; 4
 
-## Current position
+## Most recent position
 
 * [PeoplePlus](https://peopleplus.co.uk) - Remote Developer - May 2021 to March 2023
 
-As the main core developer I have been focusing on providing back-end services to provide connections to external services like [Auth0](https://auth0.com), [Scorm Cloud](https://rusticisoftware.com/products/scorm-cloud/) & [Stripe](https://stripe.com/gb). I used Typescript via Azure Functions serverless technology to deliver a basic API that can was consumed by internal & external services. This includes a Vue 2 app (www.learningplus.co.uk) that I co-created with a front-end developer.
+The Peopleplus development team consisted of three people and I was the main core developer. My main project was focused on providing connections to external services like  [Auth0](https://auth0.com), [Scorm Cloud](https://rusticisoftware.com/products/scorm-cloud/) & [Stripe](https://stripe.com/gb) to create their main training platform. I was teamed with a less experienced developer, working closely with them via Teams to tutor them in providing a reliable functional application.
 
-During the creation of this application and many other smaller bits of tools programming, I have been tutoring a less experienced developer. Working closely with them via Teams to tutor them in some of the more tricky parts of providing a reliable functional application. Other resposibilityies include the automation of code and documentation to release from the Azure DevOps platform out to the UAT and production services.
-
-I was tasked with helping to assess the best ways to deliver applications which included reviewing frameworks such as Vue (v3), React (v18) and Svelte (v1). These investigations include building static sites and dynamic sites and releasing the software on Cloudflare using their Pages and Workers.
+My responsibilities included managing and manipulating data to ensure that it was secure and useful as well as using the tools available in the Azure Portal to log and keep the tasks up to date.
 
 Skills Used: Node (v16+), Javascript, Typescript, Unit testing, REST, SQL, mongodb
 

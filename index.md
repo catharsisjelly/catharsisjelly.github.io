@@ -1,13 +1,11 @@
-I have been a developer for the last 20 years, using Agile processes for most of those. I am looking to move away from development to use more of my organisational skills to help organisations
-provide good digital products. My experience includes creating and changing products, digital change management, data analysis, data adoption and integration, organising workflows, and the
-requirements gathering and planning process.
+I have been a developer for the last 20 years and am looking to use my skills to help build better digital products and strategies. My experience includes product management, organising technical roadmaps, providing changes in existing products and creating new products from scratch. My ideal employer uses tech for a good (humane) purpose.
 
-In my spare time, I create and produce a creative podcast called [Rough Sketch Podcast](https://www.roughsketch.online), co-organise an LGBTQ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [acted and directed](performance.md) on and off stage.
+In my spare time, I create and produce a creative podcast called [Rough Sketch Podcast](https://www.roughsketch.online), co-organise an LGBTQ+ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [acted and directed](performance.md) on and off stage.
 
 ## Quick Info
 
-* Current notice period: 1 month
-* Salary expectation: ~&pound;48,000+
+* Current notice period: None
+* Salary expectation: ~&pound;48,000+ (dependant on responsibilities)
 * Got questions? [Email me](mailto:me@catharsis.co.uk)
 * Download a condensed PDF version of [this CV](downloads/Chris_Lock-CV.pdf)
 
@@ -27,9 +25,9 @@ In my spare time, I create and produce a creative podcast called [Rough Sketch P
 
 * Symfony 2 &rarr; 6
 * Laravel 4 &rarr; 9
-* Zend Framework 2 & 3
+* Zend Framework
 * Yii
-* Silverstripe 3 &rarr; 4
+* Silverstripe
 
 ## Most recent position
 

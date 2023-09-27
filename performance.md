@@ -17,12 +17,12 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 I worked with Ergo on The Quantumn Horse and this is a radio soap opera that currently airs in Australia on an independant radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
 
-* Malcolm Blood
-* Jeremy Braverman
-* George (a little boy)
-* Steven the Parrot
-* Ronan
-* Farmer Jarman 
+* Malcolm Blood - Upper class landowner with a slight northern twang
+* Jeremy Braverman - Soft neutral voice with camp undertone
+* George (a little boy) - Squeeky and disapproving
+* Steven the Parrot - Typical "pieces-of-eight" style parrot voice
+* Ronan - Loud, brash, talks about poo a lot
+* Farmer Jarman - South-west UK drawl with a tendancy to mumble
 
 ### Jan 2019 - Present - [Rough Sketch Podcast](https://www.roughsketch.online/)
 

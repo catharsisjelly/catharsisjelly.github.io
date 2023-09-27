@@ -13,6 +13,17 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 ## Audio
 
+### Dec 2022 - Present - [Hamlet by Ergo Phizmiz](https://www.instagram.com/p/CwceilYrRPJ/)
+
+I worked with Ergo on The Quantumn Horse and this is a radio soap opera that currently airs in Australia on an independant radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
+
+* Malcolm Blood
+* Jeremy Braverman
+* George (a little boy)
+* Steven the Parrot
+* Ronan
+* Farmer Jarman 
+
 ### Jan 2019 - Present - [Rough Sketch Podcast](https://www.roughsketch.online/)
 
 Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year I was lucky enough to get quite a few guests scheduled in so I put out more episodes than originally scheduled.
@@ -20,6 +31,10 @@ Since I re-embraced the performing side of my personality I wanted to create a p
 I put a lot of work into this project. I schedule the guests, edit the audio and update the majority of the social media and love doing it.
 
 ## Visual
+
+### October 2023 - [Lostferatu](https://www.cubecinema.com/programme/event/lostferatu-premiere,13276/)
+
+A no budget remake of the Lost Boys in it I take on the part of "Star" specifically in the "love scene". Yes I didn't get paid for it and yes it was stupidly fun.
 
 ### February 2023 - The Quantum Horse
 

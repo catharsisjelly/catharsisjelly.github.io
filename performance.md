@@ -1,6 +1,6 @@
 # Performance skills & history
 
-In my performance skills I like to believe I am equally good off stage as I am on. I really enjoy the focus of listening to my fellow performers and being able to react in the moment. Improv does not always have to be "funny", it can also be poignant, emotional and tell a story. Being a nerd I'm really good at using technology in ways to either help the production of a show or be included in a show. Even if that means I have to program something myself.
+In my performance skills, I like to believe I am equally good off stage as I am on. I enjoy the focus of listening to my fellow performers and being able to react in the moment. Improv does not always have to be "funny", it can also be poignant, and emotional to tell a story. Being a nerd I'm good at using technology in ways to either help the production of a show or be included in a show. Even if that means I have to program something myself.
 
 Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any of the following:
 
@@ -9,47 +9,59 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 * Compere/Toast Master
 * Improvised theatre
 * Devised theatre
-* Table top RPG facilitation
+* Tabletop RPG facilitation
 
 ## Audio
 
 ### Dec 2022 - Present - [Hamlet by Ergo Phizmiz](https://www.instagram.com/p/CwceilYrRPJ/)
 
-I worked with Ergo on The Quantumn Horse and this is a radio soap opera that currently airs in Australia on an independant radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
+I worked with Ergo on The Quantum Horse and this is a radio soap opera that currently airs in Australia on an independent radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
 
-* Malcolm Blood - Upper class landowner with a slight northern twang
-* Jeremy Braverman - Soft neutral voice with camp undertone
+* Malcolm Blood - Upper-class landowner with a slightly northern twang
+* Jeremy Braverman - Soft neutral voice with a camp undertone
 * George (a little boy) - Squeeky and disapproving
 * Steven the Parrot - Typical "pieces-of-eight" style parrot voice
 * Ronan - Loud, brash, talks about poo a lot
-* Farmer Jarman - South-west UK drawl with a tendancy to mumble
+* Farmer Jarman - South-west UK drawl with a tendency to mumble
 
 ### Jan 2019 - Present - [Rough Sketch Podcast](https://www.roughsketch.online/)
 
-Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year I was lucky enough to get quite a few guests scheduled in so I put out more episodes than originally scheduled.
+Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year, I was lucky enough to get quite a few guests scheduled so I put out more episodes than originally scheduled.
 
 I put a lot of work into this project. I schedule the guests, edit the audio and update the majority of the social media and love doing it.
 
 ## Visual
 
-### October 2023 - [Lostferatu](https://www.cubecinema.com/programme/event/lostferatu-premiere,13276/)
+### TTRPG
 
-A no budget remake of the Lost Boys in it I take on the part of "Star" specifically in the "love scene". Yes I didn't get paid for it and yes it was stupidly fun.
+* Keeper for Brindlewood Bay 2023 - [Part 1](https://www.youtube.com/watch?v=cp9Yl5jYDng&t=73s), [Part 2](https://youtu.be/I7t7HFqMm80?si=-IV6VMkBc384frXs) and [Part 3](https://www.youtube.com/watch?v=6odc9NDBFiQ&lc=Ugx3aEewZEqrv6T9q_p4AaABAg)
+* Edith Jackson - Call of Cthulhu character - [Part 1](https://youtu.be/JzSyl3q25nk?si=9CBCx-O3R4ovIgN9), [Part 2](https://youtu.be/MWIDO1gU5mg?si=5cUHP93RZS6LhrDu) and [Part 3](https://youtu.be/eKwUwfxzFpo?si=df5i1MjQdIhUXqRA)
+* [SuperNormal - GM](https://youtu.be/XdX7bcvlwmo?si=yQGCZXO0EkOmkIAk)
+* [Goblin Quest - Player](https://youtu.be/IWPs5gSXzeE?si=L6VAhqWUBTb6ryYh)
+* [All Outta BubbleGum - Player](https://youtu.be/JKqf6VxV1iA?si=bhy5PLBTgllXxgXI)
 
-### February 2023 - The Quantum Horse
+### Video
+
+#### October 2023 - [Lostferatu](https://www.cubecinema.com/programme/event/lostferatu-premiere,13276/)
+
+A zero-budget remake of the Lost Boys. I take on the part of "Star" specifically in the "love scene". Yes, I didn't get paid for it and yes it was stupidly fun.
+
+### Stage
+
+#### February 2023 - The Quantum Horse
 
 ![Quantum Horse Poster](./images/QuantumHorse-small.jpeg)
 
-The Quantum Horse is a Pantomime written and directed by [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). I attended an initial meeting in December 2022 and threw myself into the project. After a mad January of some major script changes and my parts in the panto expanding from one character to four it was a great way to start the year.
+The Quantum Horse is a Pantomime written and directed by [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). I attended an initial meeting in December 2022 and threw myself into the project. After a mad January of some major script changes and my parts in the panto expanding from one character to four, it was a great way to start the year.
 
-The show had a run of 8 performances with the majority of them being sold out to a 100+ auidience between 02nd Feb & 12th Feb at [The Cube Microplex](https://cubecinema.com/) in Bristol with evening performances on Thurs & Friday and matinee performances over the weekend.
+The show had a run of 8 performances with the majority of them being sold out to a 100+ audience between 02nd Feb & 12th Feb at [The Cube Microplex](https://cubecinema.com/) in Bristol with evening performances on Thurs & Friday and matinee performances over the weekend.
 
 **Parts I Played**
 
 * Narrator 2 - One of the two narrators that start the show, a neutral clear and present voice
-* Genie of Economy - A genie trapped for 10,000 years in the power of two metal coins - A loud theatrical overexagerated voice
-* Mr Hungerdunger - A man seeking help for his horse (Geoffrey) - Well spoken RP with a penchant for repeating the phrase "what what"
-* Digital Projector - An embodyment of a digital projector at The Cube Microplex - South-west bristolian accent
+* Genie of Economy - A genie trapped for 10,000 years in the power of two metal coins - A loud theatrical overexaggerated voice
+* Mr Hungerdunger - A man seeking help for his horse (Geoffrey) - Well-spoken RP with a penchant for repeating the phrase "what what"
+* Digital Projector - An embodiment of a digital projector at The Cube Microplex - South-west Bristolian accent
 
 **Reviews**
 
@@ -59,39 +71,39 @@ The show had a run of 8 performances with the majority of them being sold out to
 
 > Queer and neurodivergent audience members will appreciate it on about twelve different levels - [Quill via Website](https://www.cuillioc.org/0/partnerships/Reviews/review-quantum-horse)
 
-### April 2022 - Good Morning Bristol
+#### April 2022 - Good Morning Bristol
 
-Another production by the [Unscripted Players](https://www.facebook.com/unscriptedplay/) directed by Aiden Pope that was delayed by two years due to COVID-19. The show was essentially poking fun at the traditional Morning TV show e.g Good Morning Britain. Short form games were strung together by hosts that changed on a performance by performance basis. I was one of the team of [5 performers](https://improvtheatre.co.uk/meet-the-cast-of-good-morning-bristol/) and performed in all three performances, taking the hosting role for one along with Jo Wymen.  
+Another production by the [Unscripted Players](https://www.facebook.com/unscriptedplay/) directed by Aiden Pope was delayed by two years due to COVID-19. The show was essentially poking fun at the traditional Morning TV show e.g. Good Morning Britain. Short-form games were strung together by hosts that changed on a performance-by-performance basis. I was one of the team of [5 performers](https://improvtheatre.co.uk/meet-the-cast-of-good-morning-bristol/) and performed in all three performances, taking the hosting role for one along with Jo Wymen.  
 
-### March 2021 - December 2021 - The Documentary
+#### March 2021 - December 2021 - The Documentary
 
-[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Bristol Mind. I'm currently unsure if I am going to do iit again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Bristol Mind. I'm currently unsure if I am going to do it again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
 
-### December 2020 - Deconstruction Showcase
+#### December 2020 - Deconstruction Showcase
 
-As part of a six week programme learning this format I ended up appearing in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can currently see the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
+As part of a six-week programme learning this format, I ended up appearing in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can currently see the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
 
-### July 2019 - Origin of Heroes
+#### July 2019 - Origin of Heroes
 
-This production was my Improv directorial debut and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
+This production was my Improv directorial debut and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big July Show. I had the idea that you could create a show where we improvise the creation of the hero's origin story. It was a cast of six and we rehearsed for 8 weeks to find good ways to put the various beats of the show together.
 
-Each week I would choose a few Improv based activities to warm up and then focus on versions of a particular beat to give the players the tools they need.
+Each week I would choose a few Improv-based activities to warm up and then focus on versions of a particular beat to give the players the tools they need.
 
 During the show I played the part of the "narrator", taking on the name Lee Stanley a play on words of the late great Stan Lee. My job was to introduce the cast, take the suggestions from the audience and every now and then re-cap the story to help the players know where to focus.
 
 I aim to hopefully put together a plan to take this show on the road and hit the Edinburgh Fringe.
 
-### April 2019 - The Stuff of Dreams
+#### April 2019 - The Stuff of Dreams
 
-The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big April Show. It's aim was to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dream world and weave them into the narrative story.
+The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big April Show. Its aim was to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dreamworld and weave them into the narrative story.
 
 ### July 2018 - What a Difference A Friend Makes
 
 What a Difference A Friend Makes was Directed by Llaura Hughes and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big July Show. It was a narrative piece and aimed to explore the relationships we make in our journey through life and the things that our friends do that enhance our lives.
 
-### February 2017 - Bar Wotever
+#### February 2017 - Bar Wotever
 
-My venture into queer cabaret. I have written some odd poetry in the past and every now and then I like to unleash it onto the world. Bar Wotever is a club/cabaret night that usually takes place in Vauxhall (London) but they did a small tour and held a three night stint in Bristol and I was glad to be part of it.
+My venture into queer cabaret. I have written some odd poetry in the past and every now and then I like to unleash it onto the world. Bar Wotever is a club/cabaret night that usually takes place in Vauxhall (London) but they did a small tour and held a three-night stint in Bristol and I was glad to be part of it.
 
 ## Links
 

@@ -4,7 +4,7 @@ In my spare time, I create and produce a creative podcast called [Rough Sketch P
 
 ## Quick Info
 
-* Current notice period: None
+* Current notice period: 1 month
 * Salary expectation: ~&pound;48,000+ (dependant on responsibilities)
 * Got questions? [Email me](mailto:me@catharsis.co.uk)
 * Download a condensed PDF version of [this CV](downloads/Chris_Lock-CV.pdf)
@@ -29,18 +29,18 @@ In my spare time, I create and produce a creative podcast called [Rough Sketch P
 * Yii
 * Silverstripe
 
-## Most recent position
+## Current positions
 
-* [PeoplePlus](https://peopleplus.co.uk) - Remote Developer - May 2021 to March 2023
+After a period of reflection at the end of my last position I decided to change my career and focus less on development work and more on how I can help organisations improve their digital resources and projects. I got a main position for 2.5 days a week and am currently juggling multiple other positions to ensure I have enough income.
 
-The Peopleplus development team consisted of three people and I was the main core developer. My main project was focused on providing connections to external services like  [Auth0](https://auth0.com), [Scorm Cloud](https://rusticisoftware.com/products/scorm-cloud/) & [Stripe](https://stripe.com/gb) to create their main training platform. I was teamed with a less experienced developer, working closely with them via Teams to tutor them in providing a reliable functional application.
-
-My responsibilities included managing and manipulating data to ensure that it was secure and useful as well as using the tools available in the Azure Portal to log and keep the tasks up to date.
-
-Skills Used: Node (v16+), Javascript, Typescript, Unit testing, REST, SQL, mongodb
+* Digital Project Coordinator @ 1625 Independent People (2.5 days a week)
+* Receptionist @ Relate Avon (1 evening a week)
+* Bartender @ Bristol Bear Bar (1 evening every 2 weeks) 
 
 ## Previous Experience
 
+* [People Plus](experience/people-plus.md)
+  * Developer - May 2021 to March 2023
 * [NCC Group](experience/ncc.md)
   * Contract Developer - Feb 2021 to Apr 2021
 * [Chargifi](experience/chargifi.md)

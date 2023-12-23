@@ -34,8 +34,9 @@ I put a lot of work into this project. I schedule the guests, edit the audio and
 
 ### TTRPG
 
-* Keeper for Brindlewood Bay 2023 - [Part 1](https://www.youtube.com/watch?v=cp9Yl5jYDng&t=73s), [Part 2](https://youtu.be/I7t7HFqMm80?si=-IV6VMkBc384frXs) and [Part 3](https://www.youtube.com/watch?v=6odc9NDBFiQ&lc=Ugx3aEewZEqrv6T9q_p4AaABAg)
+* [Pick Me - GM](https://www.youtube.com/watch?v=9lRBh37x8oo&t=1s)
 * Edith Jackson - Call of Cthulhu character - [Part 1](https://youtu.be/JzSyl3q25nk?si=9CBCx-O3R4ovIgN9), [Part 2](https://youtu.be/MWIDO1gU5mg?si=5cUHP93RZS6LhrDu) and [Part 3](https://youtu.be/eKwUwfxzFpo?si=df5i1MjQdIhUXqRA)
+* Keeper for Brindlewood Bay 2023 - [Part 1](https://www.youtube.com/watch?v=cp9Yl5jYDng&t=73s), [Part 2](https://youtu.be/I7t7HFqMm80?si=-IV6VMkBc384frXs) and [Part 3](https://www.youtube.com/watch?v=6odc9NDBFiQ&lc=Ugx3aEewZEqrv6T9q_p4AaABAg)
 * [SuperNormal - GM](https://youtu.be/XdX7bcvlwmo?si=yQGCZXO0EkOmkIAk)
 * [Goblin Quest - Player](https://youtu.be/IWPs5gSXzeE?si=L6VAhqWUBTb6ryYh)
 * [All Outta BubbleGum - Player](https://youtu.be/JKqf6VxV1iA?si=bhy5PLBTgllXxgXI)

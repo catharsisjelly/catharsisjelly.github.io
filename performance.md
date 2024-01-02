@@ -13,7 +13,7 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 ## Audio
 
-### Dec 2022 - Present - [Hamlet by Ergo Phizmiz](https://www.instagram.com/p/CwceilYrRPJ/)
+### Dec 2022 - Present - [Hamlet by Ergo Phizmiz](https://www.buzzsprout.com/2295575)
 
 I worked with Ergo on The Quantum Horse and this is a radio soap opera that currently airs in Australia on an independent radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
 

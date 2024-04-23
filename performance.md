@@ -43,7 +43,7 @@ I put a lot of work into this project. I schedule the guests, edit the audio and
 
 ### Video
 
-#### October 2023 - [Lostferatu](https://www.cubecinema.com/programme/event/lostferatu-premiere,13276/)
+#### October 2023 - [Lostferatu](https://www.youtube.com/@Lostferatu2023)
 
 A zero-budget remake of the Lost Boys. I take on the part of "Star" specifically in the "love scene". Yes, I didn't get paid for it and yes it was stupidly fun.
 

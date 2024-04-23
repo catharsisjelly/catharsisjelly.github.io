@@ -49,6 +49,22 @@ A zero-budget remake of the Lost Boys. I take on the part of "Star" specifically
 
 ### Stage
 
+#### Upcoming 2025 - The Absolute At Large
+
+Aiming to be a theatre production of the book written by [Karel Čapek](https://en.wikipedia.org/wiki/The_Absolute_at_Large) I am once again teaming up with [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). We are at the early stages of the project with some dates aimed at April 2025.
+
+#### Ongoing - The Clones Project
+
+Take a glimpse into a futuristic society where everybody is designated several Clones and still expected to navigate the pitfalls and hazards of the modern workplace. Presented by the Founder and CEO of the U Foundation, our showcase will demonstrate the myriad of benefits and uses of the New U technology to you, our investors. Inspired by Bladerunner and the TTRPG Paranoia, Clones is an improvised Sci-Fi show unlike any other, except itself, of course.
+
+#### April 2024 - What Happened in the Interval
+
+After taking a long hiatus from the [Unscripted Players](https://www.facebook.com/unscriptedplay/) due to life stuff I applied to direct a new show I had an idea for. This is a piece of improvised theatre that uses a long-form storytelling format to explore what is wrong with the relationship and then inform the second half of the show how the problem can be resolved in a fantastical fake theatrical piece. The performance had a three-night run at the Bristol Improv Theatre and it might get revived as an ongoing piece.
+
+**Concept:** Two people are about to have their lives changed by the power of theatre. The show they see affects them so much that they never see the end. We find out how their lives change and answer the question of what happened in the interval.
+
+**Get:** We ask the audience to write down names of theatre plays that do not exist and before the show starts we take a relationship of two people who would go and see a piece of theatre together.
+
 #### February 2023 - The Quantum Horse
 
 ![Quantum Horse Poster](./images/QuantumHorse-small.jpeg)
@@ -78,11 +94,11 @@ Another production by the [Unscripted Players](https://www.facebook.com/unscript
 
 #### March 2021 - December 2021 - The Documentary
 
-[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After I took the course I really wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and was able to donate £155 to Bristol Mind. I'm currently unsure if I am going to do it again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
+[The Documentary](https://improv.fandom.com/wiki/The_Documentary) is an Improv form created by Billy Merritt at the Upright Citizens Brigade Theatre in 2002. I learned about it via a course held by The Nursery Theatre. After taking the course I wanted to get a team together to make an Online show of it using Zoom. It took a few months of working through the format with a team of players before we performed our first live show to an audience of around 40 people. We repeated the show a couple more times throughout the year and donated £155 to Bristol Mind. I'm currently unsure if I am going to do it again in 2022 as most people seem to want to return to performing in the physical world. Feel free to [get in touch](mailto:me@catharsis.co.uk) if you want to know more.
 
 #### December 2020 - Deconstruction Showcase
 
-As part of a six-week programme learning this format, I ended up appearing in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can currently see the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
+As part of a six-week programme learning this format, I appeared in the Deconstruction Showcase with The Nursery Theatre. I had never heard of this format before but I'm always eager to look into more formats of Improv. The format was taught by the wonderful [Jen Rowe](http://www.jennyrowe.co.uk/) and at the end of it we performed as a live Facebook event which was recorded. You can watch the recording on the [Nursery Theatre Facebook page](https://www.facebook.com/336623673035352/videos/851870432298250/).
 
 #### July 2019 - Origin of Heroes
 
@@ -96,7 +112,7 @@ I aim to hopefully put together a plan to take this show on the road and hit the
 
 #### April 2019 - The Stuff of Dreams
 
-The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big April Show. Its aim was to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dreamworld and weave them into the narrative story.
+The Stuff of Dreams was Directed by Catherine Murphy and put on as part of the [Unscripted Players](https://www.facebook.com/unscriptedplay/) Big April Show. It aimed to explore the messages that can be contained within our dreams. Scenes would take place in either the dream world where we could use tools like Scene Painting to make anything happen. Our job as players was to take the elements that appeared in the Dreamworld and weave them into the narrative story.
 
 ### July 2018 - What a Difference A Friend Makes
 
@@ -104,7 +120,7 @@ What a Difference A Friend Makes was Directed by Llaura Hughes and put on as par
 
 #### February 2017 - Bar Wotever
 
-My venture into queer cabaret. I have written some odd poetry in the past and every now and then I like to unleash it onto the world. Bar Wotever is a club/cabaret night that usually takes place in Vauxhall (London) but they did a small tour and held a three-night stint in Bristol and I was glad to be part of it.
+My venture into queer cabaret. I have written some odd poetry in the past and now and then I like to unleash it onto the world. Bar Wotever is a club/cabaret night that usually takes place in Vauxhall (London) but they did a small tour and held a three-night stint in Bristol and I was glad to be part of it.
 
 ## Links
 

@@ -73,7 +73,7 @@ A zero-budget remake of the Lost Boys. I take on the part of "Star" specifically
 
 ![Quantum Horse Poster](./images/QuantumHorse-small.jpeg)
 
-The Quantum Horse is a Pantomime written and directed by [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). I attended an initial meeting in December 2022 and threw myself into the project. After a mad January of some major script changes and my parts in the panto expanding from one character to four, it was a great way to start the year.
+The Quantum Horse is a Pantomime written and directed by [Ergo Phizmiz](https://ergophizmizmusic.bandcamp.com). I attended an initial meeting in December 2022 and threw myself into the project. After a mad January of some major script changes and my parts in the panto expanding from one character to four, it was a great way to start the year.
 
 The show had a run of 8 performances with the majority of them being sold out to a 100+ audience between 02nd Feb & 12th Feb at [The Cube Microplex](https://cubecinema.com/) in Bristol with evening performances on Thurs & Friday and matinee performances over the weekend.
 

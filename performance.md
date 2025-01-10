@@ -11,9 +11,29 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 * Devised theatre
 * Tabletop RPG facilitation
 
-## Audio
+## Ongoing work
 
-### Dec 2022 - Present - [Hamlet by Ergo Phizmiz](https://www.buzzsprout.com/2295575)
+### The Clones Project
+
+Take a glimpse into a futuristic society where everybody is designated several Clones and still expected to navigate the pitfalls and hazards of the modern workplace. Presented by the Founder and CEO of the U Foundation, our showcase will demonstrate the myriad of benefits and uses of the New U technology to you, our investors. Inspired by Bladerunner and the TTRPG Paranoia, Clones is an improvised Sci-Fi show unlike any other, except itself, of course.
+
+**Concept:** How would we as humans wwork differently if we knew we could die and come back a certain number of times.
+
+**Get:** We ask the audience for a workplace or career tro base our show in.
+
+### What Happened in the Interval
+
+This reflexive show was devised as part of the Unscripted Players program in 2024 and looks to continue to evolve. We meet two people and witness parts of their lives in small vignettes as they sit and wait for the show to start. But not all is right with this relationship. It could be by sheer coincidence or the magic of theatre that the show holds a mirror up to their relationship and hints at how their life could change if one or both of them change. The message is so effective that they never see the show's end.
+
+We find out what changes within them, and how it affects their lives as we answer the question of What Happened in the Interval
+
+**Get:** We ask the audience to write down names of theatre plays that do not exist and before the show starts. We also take a relationship from the audience of the two people who would go and see a piece of theatre together.
+
+## Past work
+
+### Audio
+
+#### Dec 2022 - [Hamlet by Ergo Phizmiz](https://ergophizmizmusic.bandcamp.com)
 
 I worked with Ergo on The Quantum Horse and this is a radio soap opera that currently airs in Australia on an independent radio station called Diffusion FM. Hamlet is a radio soap opera similar to The Archers but a lot more odd. I play several parts in the play which include
 
@@ -24,24 +44,24 @@ I worked with Ergo on The Quantum Horse and this is a radio soap opera that curr
 * Ronan - Loud, brash, talks about poo a lot
 * Farmer Jarman - South-west UK drawl with a tendency to mumble
 
-### Jan 2019 - Present - [Rough Sketch Podcast](https://www.roughsketch.online/)
+### Jan 2019 - July 2023 - [Rough Sketch Podcast](https://shows.acast.com/rough-sketch-podcast)
 
 Since I re-embraced the performing side of my personality I wanted to create a podcast that involved an element of improvisation in it and that is how Rough Sketch was born. I set a goal of putting one episode out per month and during my first year, I was lucky enough to get quite a few guests scheduled so I put out more episodes than originally scheduled.
 
 I put a lot of work into this project. I schedule the guests, edit the audio and update the majority of the social media and love doing it.
 
-## Visual
+The podcast is currently on a hiatus as I don't have the time to dedicate to it, the last episode was released July 2023
 
-### TTRPG
+### Video
 
-* [Pick Me - GM](https://www.youtube.com/watch?v=9lRBh37x8oo&t=1s)
+#### TTRPG
+
+* Pick Me- GM [Recorded in 2023](https://www.youtube.com/watch?v=9lRBh37x8oo), [Recorded in 2024](https://www.youtube.com/watch?v=3YEI9x-gvpI)
 * Edith Jackson - Call of Cthulhu character - [Part 1](https://youtu.be/JzSyl3q25nk?si=9CBCx-O3R4ovIgN9), [Part 2](https://youtu.be/MWIDO1gU5mg?si=5cUHP93RZS6LhrDu) and [Part 3](https://youtu.be/eKwUwfxzFpo?si=df5i1MjQdIhUXqRA)
 * Keeper for Brindlewood Bay 2023 - [Part 1](https://www.youtube.com/watch?v=cp9Yl5jYDng&t=73s), [Part 2](https://youtu.be/I7t7HFqMm80?si=-IV6VMkBc384frXs) and [Part 3](https://www.youtube.com/watch?v=6odc9NDBFiQ&lc=Ugx3aEewZEqrv6T9q_p4AaABAg)
 * [SuperNormal - GM](https://youtu.be/XdX7bcvlwmo?si=yQGCZXO0EkOmkIAk)
 * [Goblin Quest - Player](https://youtu.be/IWPs5gSXzeE?si=L6VAhqWUBTb6ryYh)
 * [All Outta BubbleGum - Player](https://youtu.be/JKqf6VxV1iA?si=bhy5PLBTgllXxgXI)
-
-### Video
 
 #### October 2023 - [Lostferatu](https://www.youtube.com/@Lostferatu2023)
 
@@ -49,23 +69,7 @@ A zero-budget remake of the Lost Boys. I take on the part of "Star" specifically
 
 ### Stage
 
-#### Upcoming 2025 - The Absolute At Large
-
-Aiming to be a theatre production of the book written by [Karel Čapek](https://en.wikipedia.org/wiki/The_Absolute_at_Large) I am once again teaming up with [Ergo Phizmiz](ergophizmizmusic.bandcamp.com). We are at the early stages of the project with some dates aimed at April 2025.
-
-#### Ongoing - The Clones Project
-
-Take a glimpse into a futuristic society where everybody is designated several Clones and still expected to navigate the pitfalls and hazards of the modern workplace. Presented by the Founder and CEO of the U Foundation, our showcase will demonstrate the myriad of benefits and uses of the New U technology to you, our investors. Inspired by Bladerunner and the TTRPG Paranoia, Clones is an improvised Sci-Fi show unlike any other, except itself, of course.
-
-#### April 2024 - What Happened in the Interval
-
-After taking a long hiatus from the [Unscripted Players](https://www.facebook.com/unscriptedplay/) due to life stuff I applied to direct a new show I had an idea for. This is a piece of improvised theatre that uses a long-form storytelling format to explore what is wrong with the relationship and then inform the second half of the show how the problem can be resolved in a fantastical fake theatrical piece. The performance had a three-night run at the Bristol Improv Theatre and it might get revived as an ongoing piece.
-
-**Concept:** Two people are about to have their lives changed by the power of theatre. The show they see affects them so much that they never see the end. We find out how their lives change and answer the question of what happened in the interval.
-
-**Get:** We ask the audience to write down names of theatre plays that do not exist and before the show starts we take a relationship of two people who would go and see a piece of theatre together.
-
-#### February 2023 - The Quantum Horse
+#### February 2023 - [The Quantum Horse by Ergo Phizmiz](https://ergophizmizmusic.bandcamp.com)
 
 ![Quantum Horse Poster](./images/QuantumHorse-small.jpeg)
 

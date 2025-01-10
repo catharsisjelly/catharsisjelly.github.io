@@ -1,6 +1,6 @@
 I have been a developer for the last 20 years and am looking to use my skills to help build better digital products and strategies. My experience includes product management, organising technical roadmaps, providing changes in existing products and creating new products from scratch. My ideal employer uses tech for a good (humane) purpose.
 
-In my spare time, I create and produce a creative podcast called [Rough Sketch Podcast](https://www.roughsketch.online), co-organise an LGBTQ+ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [acted and directed](performance.md) on and off stage.
+In my spare time I co-organise an LGBTQ+ comic convention known as [PrideCAF](https://pridecaf.co.uk/) and have [create, act and direct](performance.md) on and off stage.
 
 ## Quick Info
 
@@ -23,18 +23,16 @@ In my spare time, I create and produce a creative podcast called [Rough Sketch P
 
 ## PHP Framework Knowledge
 
-* Symfony 2 &rarr; 6
+* Symfony 2 &rarr; 7
 * Laravel 4 &rarr; 9
-* Zend Framework
-* Yii
-* Silverstripe
+* Silverstripe 3 &rarr; 5
 
 ## Current positions
 
 After a period of reflection at the end of my last position I decided to change my career and focus less on development work and more on how I can help organisations improve their digital resources and projects. I got a main position for 2.5 days a week and am currently juggling multiple other positions to ensure I have enough income.
 
 * Digital Project Coordinator @ 1625 Independent People (2.5 days a week)
-* Receptionist @ Relate Avon (1 evening a week)
+* Receptionist @ Relate Avon (1.5 evenings a week)
 * Bartender @ Bristol Bear Bar (1 evening every 2 weeks) 
 
 ## Previous Experience

@@ -94,7 +94,7 @@ The show had a run of 8 performances with the majority of them being sold out to
 
 #### April 2022 - Good Morning Bristol
 
-Another production by the [Unscripted Players](https://www.facebook.com/unscriptedplay/) directed by Aiden Pope was delayed by two years due to COVID-19. The show was essentially poking fun at the traditional Morning TV show e.g. Good Morning Britain. Short-form games were strung together by hosts that changed on a performance-by-performance basis. I was one of the team of [5 performers](https://improvtheatre.co.uk/meet-the-cast-of-good-morning-bristol/) and performed in all three performances, taking the hosting role for one along with Jo Wymen.  
+Another production by the [Unscripted Players](https://www.facebook.com/unscriptedplay/) directed by Aiden Pope was delayed by two years due to COVID-19. The show was essentially poking fun at the traditional Morning TV show e.g. Good Morning Britain. Short-form games were strung together by hosts that changed on a performance-by-performance basis. I was one of the team of 5 performers and performed in all three performances, taking the hosting role for one of them.  
 
 #### March 2021 - December 2021 - The Documentary
 

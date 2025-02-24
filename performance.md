@@ -15,6 +15,10 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 ### The Clones Project
 
+![Clones](./images/ClonesInsta-1.jpg) ![Clones](./images/ClonesInsta-2.jpeg)
+
+[Artwork by N J Adam](https://www.instagram.com/njadamart/)
+
 Take a glimpse into a futuristic society where everybody is designated several Clones and still expected to navigate the pitfalls and hazards of the modern workplace. Presented by the Founder and CEO of the U Foundation, our showcase will demonstrate the myriad of benefits and uses of the New U technology to you, our investors. Inspired by Bladerunner and the TTRPG Paranoia, Clones is an improvised Sci-Fi show unlike any other, except itself, of course.
 
 **Concept:** How would we as humans wwork differently if we knew we could die and come back a certain number of times.

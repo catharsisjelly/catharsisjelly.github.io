@@ -21,7 +21,9 @@ Do [get in touch](mailto:me@catharsis.co.uk) if you want to talk to me about any
 
 Take a glimpse into a futuristic society where everybody is designated several Clones and still expected to navigate the pitfalls and hazards of the modern workplace. Presented by the Founder and CEO of the U Foundation, our showcase will demonstrate the myriad of benefits and uses of the New U technology to you, our investors. Inspired by Bladerunner and the TTRPG Paranoia, Clones is an improvised Sci-Fi show unlike any other, except itself, of course.
 
-**Concept:** How would we as humans wwork differently if we knew we could die and come back a certain number of times.
+**Position Held:** Director & Performer
+
+**Concept:** How would we as humans be different if we knew we could die and come back a certain number of times.
 
 **Get:** We ask the audience for a workplace or career tro base our show in.
 
@@ -30,6 +32,8 @@ Take a glimpse into a futuristic society where everybody is designated several C
 This reflexive show was devised as part of the Unscripted Players program in 2024 and looks to continue to evolve. We meet two people and witness parts of their lives in small vignettes as they sit and wait for the show to start. But not all is right with this relationship. It could be by sheer coincidence or the magic of theatre that the show holds a mirror up to their relationship and hints at how their life could change if one or both of them change. The message is so effective that they never see the show's end.
 
 We find out what changes within them, and how it affects their lives as we answer the question of What Happened in the Interval
+
+**Position Held:** Director & Performer
 
 **Get:** We ask the audience to write down names of theatre plays that do not exist and before the show starts. We also take a relationship from the audience of the two people who would go and see a piece of theatre together.
 
@@ -60,11 +64,13 @@ The podcast is currently on a hiatus as I don't have the time to dedicate to it,
 
 #### TTRPG
 
+* [Bigfoot Stole my Car - GM](https://youtu.be/D3ABrrou5m4?si=30CpuqvCHvjQeDIe)
+* [F'ed up little man](https://youtu.be/9UJcrAS3X2c?si=LkgW4fzj15gv5ttl)
 * Pick Me- GM [Recorded in 2023](https://www.youtube.com/watch?v=9lRBh37x8oo), [Recorded in 2024](https://www.youtube.com/watch?v=3YEI9x-gvpI)
 * Edith Jackson - Call of Cthulhu character - [Part 1](https://youtu.be/JzSyl3q25nk?si=9CBCx-O3R4ovIgN9), [Part 2](https://youtu.be/MWIDO1gU5mg?si=5cUHP93RZS6LhrDu) and [Part 3](https://youtu.be/eKwUwfxzFpo?si=df5i1MjQdIhUXqRA)
 * Keeper for Brindlewood Bay 2023 - [Part 1](https://www.youtube.com/watch?v=cp9Yl5jYDng&t=73s), [Part 2](https://youtu.be/I7t7HFqMm80?si=-IV6VMkBc384frXs) and [Part 3](https://www.youtube.com/watch?v=6odc9NDBFiQ&lc=Ugx3aEewZEqrv6T9q_p4AaABAg)
 * [SuperNormal - GM](https://youtu.be/XdX7bcvlwmo?si=yQGCZXO0EkOmkIAk)
-* [Goblin Quest - Player](https://youtu.be/IWPs5gSXzeE?si=L6VAhqWUBTb6ryYh)
+* Goblin Quest - [Recorded in 2022](https://youtu.be/IWPs5gSXzeE?si=L6VAhqWUBTb6ryYh), [Recorded in 2024](https://youtu.be/agfjh5KH88Q?si=ntiVJcvK3JlCIYcz)
 * [All Outta BubbleGum - Player](https://youtu.be/JKqf6VxV1iA?si=bhy5PLBTgllXxgXI)
 
 #### October 2023 - [Lostferatu](https://www.youtube.com/@Lostferatu2023)
